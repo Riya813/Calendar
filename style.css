@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+#year{
+    letter-spacing: 40px;
+    font-size: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(212, 17, 17);
+    font-weight: 900;
+    display: block;
+    text-align: center;
+}
+#day{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 70%;
+    height: 500px;
+    background-color: white;
+}
+
+#weekday{
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(212, 17, 17);
+    font-weight: 900;
+    font-size: 100px;
+    padding-top: 140px;
+}
+
+#date{
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    font-weight: 900;
+    font-size: 100px;
+}
